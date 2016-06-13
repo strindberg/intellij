@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="jh-transpose-chars">
+      <action id="osmedile.intellij.stringmanip.SwapCharactersAction" />
+      <action id="EditorRight" />
+    </macro>
+  </component>
+</application>
