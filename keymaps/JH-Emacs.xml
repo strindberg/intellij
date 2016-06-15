@@ -54,6 +54,7 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
+  <action id="GotoSuperMethod" />
   <action id="GotoTest" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
