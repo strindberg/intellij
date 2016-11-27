@@ -6,6 +6,11 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="alt semicolon" />
     <keyboard-shortcut first-keystroke="shift ctrl 7" />
@@ -78,6 +83,9 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
   </action>
   <action id="RecentChangedFiles" />
   <action id="ReformatCode">
