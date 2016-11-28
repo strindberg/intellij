@@ -113,7 +113,6 @@
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="ShowUsages">
