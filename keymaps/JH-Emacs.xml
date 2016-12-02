@@ -2,6 +2,7 @@
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateRunToolWindow" />
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
