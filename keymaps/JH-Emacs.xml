@@ -9,6 +9,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="alt semicolon" />
