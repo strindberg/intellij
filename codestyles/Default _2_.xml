@@ -3,4 +3,8 @@
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="300" />
+  <JetCodeStyleSettings>
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="100" />
+    <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="100" />
+  </JetCodeStyleSettings>
 </code_scheme>
