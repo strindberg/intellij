@@ -5,6 +5,11 @@
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateRunToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -78,7 +83,21 @@
   <action id="Macro.jh-transpose-chars">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
   <action id="Move" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="NextDiff" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
@@ -108,6 +127,7 @@
     <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="Scala.RenameJavaToScala" />
+  <action id="ShowContent" />
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="ctrl f1" />
     <keyboard-shortcut first-keystroke="f1" />
