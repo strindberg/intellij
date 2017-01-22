@@ -29,6 +29,10 @@
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="y" />
+  </action>
   <action id="EditorEnter">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
