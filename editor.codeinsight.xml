@@ -4,8 +4,7 @@
   </component>
   <component name="CodeInsightSettings">
     <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+    <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
 </application>
