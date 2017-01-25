@@ -14,11 +14,23 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a1080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="80" />
         <option name="BACKGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="61a80" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DIFF_DELETED">
