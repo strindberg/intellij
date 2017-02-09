@@ -7,8 +7,8 @@
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1420721137420" />
           <option name="name" value="default" />
-          <option name="pathToConfigFileJava" value="/opt/extra-inera/tools/buildTools/dev-environment/formatters/eclipseCleanUpJava.xml" />
-          <option name="selectedJavaProfile" value="EclipseCleanUpJava" />
+          <option name="pathToConfigFileJava" value="/opt/extra-inera/tools/buildTools/dev-environment/formatters/ineraJavaCodeStyle.xml" />
+          <option name="selectedJavaProfile" value="ineraEclipseFormatterJava" />
         </Settings>
       </list>
     </option>
