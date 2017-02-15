@@ -4,6 +4,7 @@
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Down" />
