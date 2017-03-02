@@ -8,4 +8,7 @@
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT" value="100" />
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="100" />
   </JetCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
+  </codeStyleSettings>
 </code_scheme>
