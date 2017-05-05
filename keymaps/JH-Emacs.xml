@@ -2,6 +2,11 @@
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
   </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow" />
@@ -17,6 +22,8 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="CollapseAll" />
+  <action id="CollapseRegion" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="alt semicolon" />
     <keyboard-shortcut first-keystroke="shift ctrl 7" />
@@ -28,6 +35,9 @@
   <action id="ContextHelp" />
   <action id="CopyElement" />
   <action id="Diff.FocusOppositePane" />
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
