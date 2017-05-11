@@ -16,6 +16,9 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="AutoIndentLines">
+    <keyboard-shortcut first-keystroke="ctrl alt q" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -95,7 +98,9 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="Images.ShowThumbnails" />
-  <action id="Inline" />
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
   <action id="IntroduceParameter" />
   <action id="JumpToLastWindow" />
   <action id="Macro.jh-transpose-chars">
