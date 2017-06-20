@@ -51,6 +51,10 @@
   <action id="EditorEnter">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="EditorKillRingSave">
+    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
     <keyboard-shortcut first-keystroke="shift space" />
