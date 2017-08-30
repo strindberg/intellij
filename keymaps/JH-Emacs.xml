@@ -171,6 +171,10 @@
     <keyboard-shortcut first-keystroke="ctrl f1" />
     <keyboard-shortcut first-keystroke="f1" />
   </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="context_menu" />
+    <mouse-shortcut keystroke="meta button3" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
