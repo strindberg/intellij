@@ -33,6 +33,10 @@
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
   <action id="CollapseAll" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="CollapseBlock" />
   <action id="CollapseRegion" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="alt semicolon" />
