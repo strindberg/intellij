@@ -1,6 +1,7 @@
 <keymap version="1" name="JH-Emacs" parent="Emacs">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
@@ -45,10 +46,19 @@
   <action id="Console.Execute">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="Console.TableResult.CloneRow">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="Console.TableResult.SetNull" />
   <action id="ContextHelp" />
   <action id="CopyElement" />
+  <action id="DatabaseView.CopyAction">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="Diff.FocusOppositePane" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
@@ -56,10 +66,6 @@
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="EditorCutLineBackward" />
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="meta d" />
-    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="y" />
-  </action>
   <action id="EditorEnter">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
@@ -107,6 +113,9 @@
   </action>
   <action id="GotoSuperMethod" />
   <action id="GotoTest" />
+  <action id="GuiDesigner.Duplicate">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta f8" />
@@ -168,6 +177,9 @@
   <action id="Resume">
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration">
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="Scala.RenameJavaToScala" />
   <action id="ShowContent" />
@@ -233,6 +245,9 @@
   <action id="UML.ApplyCurrentLayout" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.CopyWatch">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="osmedile.intellij.stringmanip.WordsCapitalizeAction">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
