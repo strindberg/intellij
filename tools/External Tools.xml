@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/bin/revealInTerminal" />
       <option name="PARAMETERS" value="$FileDir$" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/bin" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/KONZ135/bin" />
     </exec>
   </tool>
   <tool name="Reveal in Emacs" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
@@ -17,7 +17,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/bin/revealInTerminal" />
       <option name="PARAMETERS" value="/opt/intyg" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/bin" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/KONZ135/bin" />
     </exec>
   </tool>
 </toolSet>
