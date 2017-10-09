@@ -111,7 +111,6 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
-  <action id="GotoSuperMethod" />
   <action id="GotoTest" />
   <action id="GuiDesigner.Duplicate">
     <keyboard-shortcut first-keystroke="meta d" />
