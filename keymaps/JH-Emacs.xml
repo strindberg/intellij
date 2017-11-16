@@ -1,7 +1,6 @@
 <keymap version="1" name="JH-Emacs" parent="Emacs">
   <action id="$Copy">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
-    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
@@ -59,16 +58,20 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="Diff.FocusOppositePane" />
-  <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="ctrl c" />
-  </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="EditorCopy">
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
+  </action>
   <action id="EditorCutLineBackward" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="y" />
+  </action>
   <action id="EditorEnter">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
@@ -164,6 +167,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
   </action>
+  <action id="QuickDocCopy">
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
+  </action>
   <action id="RecentChangedFiles" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
@@ -252,6 +258,9 @@
   <action id="UML.ApplyCurrentLayout" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.CopyValue">
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
+  </action>
   <action id="XDebugger.CopyWatch">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
