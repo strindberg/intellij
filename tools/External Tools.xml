@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="Reveal in Clipboard" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:/cygwin64/bin/bash.exe" />
+      <option name="PARAMETERS" value="-l -c '/c/utils/configs/zsh-stuff/linux-cygwin/revealinclipboard.sh' $FileDir$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/bin" />
+    </exec>
+  </tool>
 </toolSet>
