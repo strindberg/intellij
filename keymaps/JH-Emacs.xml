@@ -54,9 +54,11 @@
   <action id="Console.TableResult.SetNull" />
   <action id="ContextHelp" />
   <action id="CopyElement" />
+  <action id="CopyPaths" />
   <action id="DatabaseView.CopyAction">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="DatabaseView.CopyDdlAction" />
   <action id="Diff.FocusOppositePane" />
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="ctrl minus" />
@@ -248,6 +250,9 @@
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
   <action id="ToggleBookmark7" />
+  <action id="Tool_External Tools_Reveal in Clipboard">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
   <action id="Tool_External Tools_Reveal in Emacs">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
