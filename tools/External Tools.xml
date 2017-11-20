@@ -17,7 +17,7 @@
     <exec>
       <option name="COMMAND" value="C:/cygwin64/bin/bash.exe" />
       <option name="PARAMETERS" value="-l -c &quot;/c/utils/configs/zsh-stuff/linux-cygwin/revealinclipboard.sh $UnixSeparators($FileDir$)$&quot;" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/bin" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/KONZ135/bin" />
     </exec>
   </tool>
 </toolSet>
