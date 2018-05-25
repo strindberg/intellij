@@ -3,8 +3,9 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="ResponseConstants.java" type="CLASS" />
-      <mapping ext="ans" type="PLAIN_TEXT" />
       <mapping ext="incl" type="PLAIN_TEXT" />
+      <mapping ext="mustache" type="PLAIN_TEXT" />
+      <mapping ext="ans" type="PLAIN_TEXT" />
       <mapping ext="sch" type="XML" />
     </extensionMap>
   </component>
