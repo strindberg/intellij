@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="ResponseConstants.java" type="CLASS" />
       <mapping ext="incl" type="PLAIN_TEXT" />
-      <mapping ext="mustache" type="PLAIN_TEXT" />
       <mapping ext="ans" type="PLAIN_TEXT" />
       <mapping ext="sch" type="XML" />
     </extensionMap>
