@@ -6,9 +6,9 @@
       <option name="WORKING_DIRECTORY" value="C:/Users/KONZ135/bin" />
     </exec>
   </tool>
-  <tool name="Reveal in Emacs" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+  <tool name="Reveal in Emacs" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="/Applications/Emacs.app/Contents/MacOS/bin-x86_64-10_5/emacsclient" />
+      <option name="COMMAND" value="C:\utils\programs\emacs-26.1-x86_64\bin\emacsclient" />
       <option name="PARAMETERS" value="--no-wait +$LineNumber$:$ColumnNumber$ &quot;$FilePath$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
