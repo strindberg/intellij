@@ -8,7 +8,7 @@
   </tool>
   <tool name="Reveal in Emacs" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
-      <option name="COMMAND" value="C:\utils\programs\emacs-26.1-x86_64\bin\emacsclient" />
+      <option name="COMMAND" value="/usr/local/bin/emacsclient" />
       <option name="PARAMETERS" value="--no-wait +$LineNumber$:$ColumnNumber$ &quot;$FilePath$&quot;" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
