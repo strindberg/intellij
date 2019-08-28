@@ -195,6 +195,7 @@
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
   </action>
   <action id="RecentChangedFiles" />
+  <action id="RecentLocations" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
@@ -217,6 +218,7 @@
   <action id="RunDashboard.CopyConfiguration">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="Scala.RenameJavaToScala" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
