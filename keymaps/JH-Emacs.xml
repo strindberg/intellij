@@ -16,6 +16,7 @@
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateRunToolWindow" />
+  <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
   <action id="Annotate">
