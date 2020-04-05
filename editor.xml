@@ -1,6 +1,8 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools.javac" />
+    <EXCLUDED_PACKAGE NAME="org.joda" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_FAMILY" value="Anonymous Pro" />
