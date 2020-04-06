@@ -55,6 +55,7 @@
     <keyboard-shortcut first-keystroke="alt semicolon" />
     <keyboard-shortcut first-keystroke="shift ctrl 7" />
   </action>
+  <action id="Compile" />
   <action id="Console.Execute">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
@@ -69,6 +70,9 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="DatabaseView.CopyDdlAction" />
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+  </action>
   <action id="Diff.FocusOppositePane" />
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="meta v" />
