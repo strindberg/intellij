@@ -287,6 +287,9 @@
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="b" />
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="u" />
+  </action>
   <action id="ToggleBookmark7" />
   <action id="Tool_External Tools_Reveal in Clipboard">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
@@ -313,10 +316,16 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
+  <action id="osmedile.intellij.stringmanip.ToLowerCaseAction">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.ToUpperCaseAction">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="osmedile.intellij.stringmanip.WordsCapitalizeAction">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
-  <action id="osmedile.intellij.stringmanip.WordsCapitalizeFullyAction">
-    <keyboard-shortcut first-keystroke="alt u" />
+  <action id="osmedile.intellij.stringmanip.swap.SwapAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
 </keymap>
