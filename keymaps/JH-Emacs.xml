@@ -90,6 +90,9 @@
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="y" />
@@ -156,6 +159,7 @@
     <keyboard-shortcut first-keystroke="shift f3" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
   <action id="GotoCustomRegion" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl f" />
@@ -168,6 +172,7 @@
   <action id="GuiDesigner.Duplicate">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="meta f8" />
@@ -271,6 +276,7 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
     <keyboard-shortcut first-keystroke="shift alt minus" />
+    <keyboard-shortcut first-keystroke="alt space" />
   </action>
   <action id="StepInto" />
   <action id="StepOut">
