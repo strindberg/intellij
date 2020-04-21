@@ -199,6 +199,13 @@
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
   <action id="Move" />
+  <action id="MoveElementLeft">
+    <keyboard-shortcut first-keystroke="ctrl meta left" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="MoveElementRight">
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="alt down" />
