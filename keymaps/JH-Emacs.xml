@@ -150,6 +150,7 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="FindInPath" />
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="alt s" />
