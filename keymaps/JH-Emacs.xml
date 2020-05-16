@@ -36,6 +36,7 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
+  <action id="CheckinProject" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="alt minus" />
@@ -87,7 +88,6 @@
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
   </action>
   <action id="EditorCutLineBackward" />
-  <action id="EditorCutLineEnd" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
