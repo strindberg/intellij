@@ -161,6 +161,9 @@
     <keyboard-shortcut first-keystroke="shift f3" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="Git.Commit.And.Push.Executor" />
   <action id="GotoCustomRegion" />
   <action id="GotoFile">
