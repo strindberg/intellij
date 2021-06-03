@@ -7,12 +7,15 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.github.andrewoma.dexx.collection" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools.javac" />
+    <EXCLUDED_PACKAGE NAME="java.awt" />
     <EXCLUDED_PACKAGE NAME="java.awt.print" />
     <EXCLUDED_PACKAGE NAME="org.joda" />
     <EXCLUDED_PACKAGE NAME="org.omg" />
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="12" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
