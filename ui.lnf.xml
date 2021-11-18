@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="25" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MAX_LOOKUP_WIDTH2" value="913" />
+  </component>
+</application>

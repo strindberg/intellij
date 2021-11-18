@@ -1,0 +1,9 @@
+<application>
+  <component name="ScalaSettings">
+    <option name="COMPILE_SERVER_ENABLED" value="false" />
+    <option name="COMPILE_SERVER_PORT" value="52342" />
+    <option name="COMPILE_SERVER_ID" value="ff7dd596-3aa9-4376-9ed5-014119066280" />
+    <option name="COMPILE_SERVER_SDK" value="1.7" />
+    <option name="COMPILE_SERVER_JVM_PARAMETERS" value="-server -Xss1m -XX:MaxPermSize=512m" />
+  </component>
+</application>
