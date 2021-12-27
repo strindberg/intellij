@@ -1,11 +1,4 @@
 <toolSet name="External Tools">
-  <tool name="Reveal in Terminal" description="Open directory containing current file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
-    <exec>
-      <option name="COMMAND" value="$USER_HOME$/bin/revealInTerminal" />
-      <option name="PARAMETERS" value="$FileDir$" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
-    </exec>
-  </tool>
   <tool name="Reveal in Emacs" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="/opt/homebrew/bin/emacsclient" />
@@ -18,6 +11,13 @@
       <option name="COMMAND" value="$USER_HOME$/bin/projectTerminal" />
       <option name="PARAMETERS" value="$ProjectFileDir$" />
       <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+  <tool name="Open in Terminal" description="Open terminal in dir of current file" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/opt/configs/zsh-stuff/applescript/revealInTerminal" />
+      <option name="PARAMETERS" value="$FileDir$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/opt/configs/zsh-stuff/applescript" />
     </exec>
   </tool>
 </toolSet>
