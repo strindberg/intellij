@@ -2,7 +2,6 @@
   <component name="ParameterNameHintsSettings">
     <disabledLanguages>
       <language id="JAVA" />
-      <language id="kotlin" />
     </disabledLanguages>
   </component>
 </application>
