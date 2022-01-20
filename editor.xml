@@ -55,11 +55,10 @@
         <option value="JAVA.chain.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="microservices.url.path.inlay.hints" />
+    <option name="lastViewedProviderKeyId" value="kotlin.references.types.hints" />
     <settingsMapElement>
       <kotlin.kotlin.references.types.hints>
         <Settings>
-          <option name="functionReturnType" value="true" />
           <option name="localVariableType" value="true" />
         </Settings>
       </kotlin.kotlin.references.types.hints>
