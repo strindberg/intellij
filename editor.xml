@@ -53,6 +53,7 @@
     <option name="disabledHintProviderIds">
       <set>
         <option value="JAVA.chain.hints" />
+        <option value="kotlin.kotlin.references.types.hints" />
       </set>
     </option>
     <option name="lastViewedProviderKeyId" value="kotlin.references.types.hints" />
