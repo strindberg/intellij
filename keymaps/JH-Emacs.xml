@@ -223,6 +223,9 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
   <action id="NextDiff" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
