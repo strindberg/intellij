@@ -16,7 +16,9 @@
   </action>
   <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateRunToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
@@ -116,6 +118,12 @@
   </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="EditorScrollDown">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="EditorScrollUp">
+    <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
@@ -284,9 +292,7 @@
     <keyboard-shortcut first-keystroke="context_menu" />
     <mouse-shortcut keystroke="meta button3" />
   </action>
-  <action id="ShowSettings">
-    <keyboard-shortcut first-keystroke="f12" />
-  </action>
+  <action id="ShowSettings" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt f7" />
     <keyboard-shortcut first-keystroke="shift ctrl g" />
