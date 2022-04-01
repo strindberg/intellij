@@ -175,6 +175,9 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.Log.Branches.Change.Branch.Filter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="GotoCustomRegion" />
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl f" />
@@ -371,6 +374,9 @@
   </action>
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
+    <mouse-shortcut keystroke="button1 doubleClick" />
   </action>
   <action id="osmedile.intellij.stringmanip.ToLowerCaseAction">
     <keyboard-shortcut first-keystroke="alt l" />
