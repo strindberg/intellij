@@ -1,7 +1,13 @@
 <templateSet group="user">
-  <template name="logger" value="private static final org.slf4j.Logger LOGGER = org.slf4j.LoggerFactory.getLogger(java.lang.invoke.MethodHandles.lookup().lookupClass());" description="" toReformat="true" toShortenFQNames="true">
+  <template name="logger" value="private val logger = $END$org.apache.logging.log4j.kotlin.logger()&#10;" description="" toReformat="true" toShortenFQNames="true">
     <context>
-      <option name="JAVA_DECLARATION" value="true" />
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@org.junit.jupiter.api.Test&#10;fun `$METHOD_NAME$`() {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="kotlinFunctionName()" defaultValue="Stuff works" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
 </templateSet>
