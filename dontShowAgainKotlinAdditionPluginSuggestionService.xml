@@ -1,0 +1,5 @@
+<application>
+  <component name="DontShowAgainKotlinAdditionPluginSuggestionService">
+    <option name="dontShowAgainKotlinJSInspectionPackSuggestion" value="true" />
+  </component>
+</application>
