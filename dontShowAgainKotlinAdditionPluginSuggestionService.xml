@@ -1,5 +1,6 @@
 <application>
   <component name="DontShowAgainKotlinAdditionPluginSuggestionService">
     <option name="dontShowAgainKotlinJSInspectionPackSuggestion" value="true" />
+    <option name="dontShowAgainKotlinNativeDebuggerPluginSuggestion" value="true" />
   </component>
 </application>
