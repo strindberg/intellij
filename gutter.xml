@@ -68,6 +68,8 @@
         <entry key="com.intellij.micronaut.provider.management.MnManagementLineMarkers" value="true" />
         <entry key="com.intellij.micronaut.provider.mq.MnMqLineMarkerProvider" value="true" />
         <entry key="com.intellij.micronaut.provider.websocket.MnWebSocketLineMarkers" value="true" />
+        <entry key="com.intellij.nosql.providers.NoSqlLineMarkerProvider" value="true" />
+        <entry key="com.intellij.spring.data.mongoDB.SpringDataMongoDbLineMarkerProvider" value="true" />
         <entry key="com.intellij.sql.editor.SqlLineMarkerProvider" value="true" />
         <entry key="com.intellij.sql.editor.SqlRecursiveCallLineMakerProvider" value="true" />
         <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
