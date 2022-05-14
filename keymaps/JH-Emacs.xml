@@ -88,6 +88,9 @@
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="EditorCopy">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
   </action>
