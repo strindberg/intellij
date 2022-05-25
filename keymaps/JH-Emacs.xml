@@ -101,6 +101,10 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="ctrl delete" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="y" />
@@ -120,6 +124,7 @@
     <keyboard-shortcut first-keystroke="alt w" />
     <keyboard-shortcut first-keystroke="meta c" />
   </action>
+  <action id="EditorKillToWordEnd" />
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
