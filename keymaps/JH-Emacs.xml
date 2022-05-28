@@ -211,6 +211,9 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Images.ShowThumbnails" />
+  <action id="IncrementalSearch">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
   <action id="Inline">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
   </action>
