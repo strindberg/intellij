@@ -167,18 +167,10 @@
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl alt s" />
     <keyboard-shortcut first-keystroke="alt f3" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
-    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="FindInPath" />
-  <action id="FindNext">
-    <keyboard-shortcut first-keystroke="f3" />
-    <keyboard-shortcut first-keystroke="alt s" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
-  </action>
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="shift f3" />
-    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -209,6 +201,14 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="ISearchBackward">
+    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="ISearchForward">
+    <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="Inline">
@@ -379,6 +379,7 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="UML.ApplyCurrentLayout" />
+  <action id="UsageFiltering.ReadAccess" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyValue">
