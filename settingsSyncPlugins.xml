@@ -61,6 +61,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="io.github.takc923.isearch">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
