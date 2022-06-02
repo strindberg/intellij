@@ -160,6 +160,9 @@
     <keyboard-shortcut first-keystroke="alt back_quote" />
     <keyboard-shortcut first-keystroke="alt less" />
   </action>
+  <action id="EditorTranspose">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl h" />
