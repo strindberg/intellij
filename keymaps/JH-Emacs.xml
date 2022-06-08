@@ -91,6 +91,16 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt 9" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt 8" />
+  </action>
   <action id="EditorCopy">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
   </action>
