@@ -40,6 +40,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.strindberg.emacssearchandcase">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.guice">
           <value>
             <PluginData>

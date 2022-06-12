@@ -179,7 +179,6 @@
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f3" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="FindInPath" />
   <action id="FindPrevious">
@@ -215,12 +214,10 @@
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="ISearchBackward">
-    <keyboard-shortcut first-keystroke="meta r" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="ISearchForward">
-    <keyboard-shortcut first-keystroke="meta s" />
-    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="Inline">
