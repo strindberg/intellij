@@ -23,6 +23,7 @@
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
+  <action id="Android.Designer.AutoArrange" />
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
@@ -39,6 +40,10 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="CapitalCase">
+    <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="CheckinProject" />
   <action id="CodeCompletion">
@@ -141,6 +146,7 @@
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="EditorScrollUp">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -198,6 +204,10 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="ctrl u" />
+  </action>
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
   </action>
@@ -225,6 +235,10 @@
   </action>
   <action id="IntroduceParameter" />
   <action id="JumpToLastWindow" />
+  <action id="LowerCase">
+    <keyboard-shortcut first-keystroke="meta l" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="Macro.jh-transpose-chars">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
@@ -370,6 +384,7 @@
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="u" />
   </action>
+  <action id="Terminal.ClearBuffer" />
   <action id="Terminal.CopySelectedText">
     <keyboard-shortcut first-keystroke="ctrl insert" />
   </action>
@@ -391,7 +406,11 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="UML.ApplyCurrentLayout" />
+  <action id="UpperCase">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="UsageFiltering.ReadAccess" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
   <action id="XDebugger.CopyValue">
@@ -406,6 +425,7 @@
   <action id="android.deploy.CodeSwap">
     <keyboard-shortcut first-keystroke="shift ctrl meta r" />
   </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.InsertImageAction" />
   <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
     <mouse-shortcut keystroke="button1 doubleClick" />
   </action>
