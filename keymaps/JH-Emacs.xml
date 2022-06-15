@@ -146,7 +146,6 @@
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
-  <action id="EditorScrollToCenter" />
   <action id="EditorScrollUp">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
