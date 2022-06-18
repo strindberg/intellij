@@ -229,6 +229,9 @@
   <action id="ISearchForward">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="ISearchWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="Images.ShowThumbnails" />
   <action id="Inline">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
