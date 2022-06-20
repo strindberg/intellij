@@ -334,6 +334,9 @@
     <keyboard-shortcut first-keystroke="f9" />
     <keyboard-shortcut first-keystroke="f8" />
   </action>
+  <action id="ReverseTransposeWords">
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
   <action id="RunDashboard.CopyConfiguration">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
@@ -466,4 +469,5 @@
   <action id="osmedile.intellij.stringmanip.swap.SwapAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="tasks.switch" />
 </keymap>
