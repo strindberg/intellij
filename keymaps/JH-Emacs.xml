@@ -258,6 +258,9 @@
   <action id="Macro.jh-transpose-chars">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
