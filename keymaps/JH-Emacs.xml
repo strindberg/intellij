@@ -149,6 +149,10 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl f" />
   </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="ctrl b" />
@@ -254,6 +258,10 @@
   </action>
   <action id="IntroduceParameter" />
   <action id="JumpToLastWindow" />
+  <action id="List-scrollUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="LowerCase">
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="alt l" />
@@ -415,6 +423,10 @@
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="u" />
   </action>
+  <action id="Table-scrollUpChangeSelection">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="Terminal.ClearBuffer" />
   <action id="Terminal.CopySelectedText">
     <keyboard-shortcut first-keystroke="ctrl insert" />
@@ -447,6 +459,9 @@
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.QuickListPopupAction" />
   <action id="Vcs.UpdateProject" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id="XDebugger.CopyValue">
     <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
   </action>
