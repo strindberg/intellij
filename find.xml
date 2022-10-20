@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'emacs-search-and-case'" />
-    <option name="defaultScopeName" value="Project 'emacs-search-and-case'" />
-    <option name="SEARCH_SCOPE" value="Project 'emacs-search-and-case'" />
+    <option name="customScope" value="Project 'sbr-backend'" />
+    <option name="defaultScopeName" value="Project 'sbr-backend'" />
+    <option name="SEARCH_SCOPE" value="Project 'sbr-backend'" />
   </component>
 </application>
