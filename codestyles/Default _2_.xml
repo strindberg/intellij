@@ -29,17 +29,38 @@
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
   <SqlCodeStyleSettings version="6">
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="ALIAS_CASE" value="4" />
+    <option name="QUOTE_TYPE" value="11" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="QUERY_EL_COMMA" value="2" />
+    <option name="INSERT_COLLAPSE_MULTI_ROW_VALUES" value="true" />
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="WITH_EL_WRAP" value="2" />
+    <option name="SELECT_EL_WRAP" value="3" />
+    <option name="FROM_EL_WRAP" value="3" />
+    <option name="WHERE_EL_WRAP" value="3" />
     <option name="TABLE_OPENING" value="1" />
     <option name="TABLE_CONTENT" value="2" />
     <option name="TABLE_CLOSING" value="3" />
     <option name="CONSTRAINT_WRAP_1" value="false" />
     <option name="POST_OPT_WRAP_2" value="false" />
+    <option name="VIEW_INDENT_QUERY" value="true" />
+    <option name="EXPR_CASE_THEN_ALIGN" value="true" />
+    <option name="EXPR_CASE_ELSE_ALIGN_THEN" value="true" />
+    <option name="EXPR_CASE_END" value="1" />
   </SqlCodeStyleSettings>
   <XML>
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
   <codeStyleSettings language="JAVA">
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
