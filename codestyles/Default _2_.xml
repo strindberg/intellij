@@ -38,6 +38,7 @@
     <option name="INSERT_VALUES_EL_LINE" value="101" />
     <option name="INSERT_COLLAPSE_MULTI_ROW_VALUES" value="true" />
     <option name="SET_EL_WRAP" value="3" />
+    <option name="WITH_EL_LINE" value="101" />
     <option name="WITH_EL_WRAP" value="2" />
     <option name="SELECT_EL_WRAP" value="3" />
     <option name="FROM_EL_WRAP" value="3" />
