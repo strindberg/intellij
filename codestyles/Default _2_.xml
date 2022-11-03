@@ -56,6 +56,9 @@
   <XML>
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="JAVA">
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <indentOptions>
