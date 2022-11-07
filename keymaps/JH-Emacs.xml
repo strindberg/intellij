@@ -453,6 +453,10 @@
   </action>
   <action id="TypeHierarchy" />
   <action id="UML.ApplyCurrentLayout" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="1" />
+  </action>
+  <action id="UnsplitAll" />
   <action id="UpperCase">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
